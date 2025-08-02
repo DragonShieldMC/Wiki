@@ -59,7 +59,7 @@ A more tormented form of the regular wraith, these shadows of the past scream ou
 * **Base HP:** 200 ❤️ (+?? per additional player nearby – _HP scales with player count in the area_)
 * **Abilities:**
   * **Soul Slash:** Attacks the player with a melee slash imbued with soul-fire magic.
-  * **Vengeful Scream: Emits a petrifying cry that attacks the player.**
+  * **Vengeful Scream:** Emits a petrifying cry that attacks the player.
   * ⚠️ **Warning:** Be prepared to dodge or block shriek attacks from Screaming Wraiths.\
 
 
