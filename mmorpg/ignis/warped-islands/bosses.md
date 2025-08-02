@@ -21,7 +21,9 @@ A mushroom abomination formed from the fusion of several fungi clusters. This fu
 
 **📖 Lore: Giant Fungi**
 
-> Giant Fungi
+> What few know is that beneath it lies a mycelial intelligence, older than even the Piglins’ ancient texts. That mind is the Giant Fungi—a towering, gentle creature born from centuries of quiet fungal growth.
+>
+> Unlike most Ignis creatures, the Giant Fungi is not violent by nature. It grew slowly beneath the warped Nylium, absorbing Warped energy, feeding off ambient heat and soul residue. Over centuries, it awakened—not as a beast, but as a caretaker.
 
 #### ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info" id="drops-info"></a>
 
@@ -50,8 +52,7 @@ The ferryman of the Underworld.
 * **Soulfire Cast:** Casts two different spells based on soul fire.
 * **Hollow Blast:** Sends a streak of soulfire magic to the player, dealing damage.
 * **Soul Minions**: Casts multiple minions created out of soulfire. \
-
-* \
+  \
 
 
 <div align="left"><figure><img src="../../../.gitbook/assets/charonminoncast.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/charonminion.gif" alt=""><figcaption></figcaption></figure></div>
@@ -62,7 +63,19 @@ The ferryman of the Underworld.
 
 **📖 Lore: Charon**
 
-> Charon
+> Long ago, Charon was a human—an archivist and soul scholar, driven by a fear of death and a hunger for knowledge. He discovered the Cathedral during an excavation of ancient ruins, and once inside, he never returned.
+>
+> Or rather—his body never returned.
+>
+> Inside, he found the Veil Scripts, an ancient language capable of separating body and soul, allowing a person to escape death... but at a cost. Eager to understand it, he bound his soul to the cathedral, hoping to find a way to return to flesh once he fully deciphered the code.
+>
+> But the longer he stayed, the more the cathedral fed on his humanity, twisting his body into a giant wraith-like form—a shadowy, skeletal figure cloaked in white spell-cloth, with glowing runes etched into his bone.
+>
+> Now, centuries later, he remains... obsessed, nearly mindless, yet still whispering the same phrase over and over in ancient tongue:
+>
+> ```
+> "I am not yet lost..."
+> ```
 
 #### ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info-1" id="drops-info-1"></a>
 
