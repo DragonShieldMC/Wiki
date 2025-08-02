@@ -21,7 +21,7 @@ Crafted with 4x Iridium ingots and 1 tough fungi core.
 
 <figure><img src="../../../.gitbook/assets/fungiringdesc.png" alt=""><figcaption></figcaption></figure>
 
-![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FA7ckSZKP5MZG4btOYyPV%252Fmediummanaring.png%3Falt%3Dmedia%26token%3D5d2574c4-db33-4e61-b4bd-e3566abab8ee\&width=300\&dpr=4\&quality=100\&sign=2c3bd856\&sv=2) **Warped Scorpion Eye Amulet**
+![](../../../.gitbook/assets/warpedscorpionamulet.png) **Warped Scorpion Eye Amulet**
 
 Dropped from Warped Scorpions.
 
