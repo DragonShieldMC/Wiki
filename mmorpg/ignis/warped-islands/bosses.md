@@ -68,4 +68,6 @@ The ferryman of the Underworld.
 
 Drops Charon's Soul, which can be traded at the Snail Trader for the Obolrod staff.
 
+<figure><img src="../../../.gitbook/assets/charonstaff.gif" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/obolrod.png" alt=""><figcaption></figcaption></figure>
