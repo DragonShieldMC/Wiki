@@ -14,7 +14,7 @@ Cross the bridge to enter the main road. The main road splits into two paths, ea
 
 ## **🧭 Path Structure**
 
-*   **Left Path:** Once a vibrant forest, this landscape remains scorched by violent soul fires and became overtaken by warped magic. Scattered across this fungi-laced path are remnants of the islands' former inhabitants — those who could not withstand the islands' raw power. Wraiths, creepers, scorpions, and fungi are along this path to the Cathedral of Veil, the lair of Charon.\
+*   **Left Path:** Once a vibrant forest, this landscape remains scorched by violent soul fires and became overtaken by warped magic. Scattered across this fungi-laced path are remnants of the islands' former inhabitants — those who could not withstand the islands' raw power. Wraiths, creepers, scorpions, and fungi haunt this path to the Cathedral of Veil, where Charon's soul is chained for eternity.\
 
 
     <figure><img src="../../../.gitbook/assets/warpedleftpath.png" alt=""><figcaption></figcaption></figure>
