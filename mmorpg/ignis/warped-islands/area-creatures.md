@@ -8,7 +8,7 @@ The **Warped Islands** are the ultimate tests of survival and reflexes. Creature
 
 Twisted by the islands' raw, unstable magic, these scorpions now roam the lands with their tainted presence.
 
-* **Base HP:** 180 ❤️ (+90 per additional player nearby – _HP scales with player count in the area_)
+* **Base HP:** 180 ❤️ (+180 per additional player nearby – _HP scales with player count in the area_)
 * **Abilities:**
   * **Warped Pinch:** A deadly claw attack that deals hefty damage.&#x20;
   * **Toxic Sting:** A swift strike inflicting blindness and nausea.
@@ -24,7 +24,7 @@ Twisted by the islands' raw, unstable magic, these scorpions now roam the lands 
 
 Swift and nimble, Warped Creepers hunger with explosive intent to destroy anything that crosses their path.&#x20;
 
-* **Base HP:** 90 ❤️ (+45 per additional player nearby – _HP scales with player count in the area_)
+* **Base HP:** 90 ❤️ (+90 per additional player nearby – _HP scales with player count in the area_)
 * **Abilities:**
   * **Warped Detonation:** Releases a lethal explosion that often results in an instant death.
   * ⚠️ **Warning:** Warped Creepers move fast and can easily ambush players from ceilings or ledges.&#x20;
@@ -39,7 +39,7 @@ Swift and nimble, Warped Creepers hunger with explosive intent to destroy anythi
 
 Animated by unstable magic, these mushrooms emerge from the islands' fungal overgrowth, ready to unleash poisonous toxins at any moment.
 
-* **Base HP:** 20 ❤️ (+10 per additional player nearby – _HP scales with player count in the area_)
+* **Base HP:** 20 ❤️ (+20 per additional player nearby – _HP scales with player count in the area_)
 * **Abilities:**
   * **Spore Toxins:** Releases a toxic cloud that inflicts poison.
   * ⚠️ **Warning:** While weak alone, Baby Fungi can quickly overwhelm players when clustered.
