@@ -14,7 +14,9 @@ Crafted through binding fungi #1-9 in a crafting table, which are scattered thro
 
 ### ![](../../../.gitbook/assets/fungiring.png) **Tough Fungi Ring**
 
-Crafted with 4x Iridium ingots and 1 tough fungi core.
+Crafted with 7x Iridium ingots and 1 tough fungi core.
+
+<figure><img src="../../../.gitbook/assets/toughfungiringrecipe.png" alt="" width="370"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/fungiringdesc.png" alt=""><figcaption></figcaption></figure>
 
