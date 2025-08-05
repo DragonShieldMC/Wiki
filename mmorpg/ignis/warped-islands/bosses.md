@@ -19,13 +19,13 @@ A mushroom guardian born from centuries of warped fungal growth. As the kind pro
 * **Drops:**
   * ![](../../../.gitbook/assets/warped_fungus.png) **Giant Fungi Core**
 
-**📖 Lore: Giant Fungi**
+## **📖 Lore: Tender Defender**
 
 > What few know is that beneath it lies a mycelial intelligence, older than even the Piglins’ ancient texts. That mind is the Giant Fungi—a towering, gentle creature born from centuries of quiet fungal growth.
 >
 > Unlike most Ignis creatures, the Giant Fungi is not violent by nature. It grew slowly beneath the warped Nylium, absorbing Warped energy, feeding off ambient heat and soul residue. Over centuries, it awakened—not as a beast, but as a caretaker.
 
-#### ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info" id="drops-info"></a>
+## ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info" id="drops-info"></a>
 
 Drops a Giant Fungi Core that boosts HP by 3 hearts when consumed.
 
@@ -65,7 +65,7 @@ Once a mortal archivist, Charon stands bound to the Cathedral of Veil, his soul 
 * **Drops:**
   * ![](../../../.gitbook/assets/charonsoul.gif) **Charon's Soul** – Can be traded at the Snail Trader for the **Obolrod** staff.
 
-**📖 Lore: Charon**
+## **📖 Lore: The Lost Sage**
 
 > Long ago, Charon was a human—an archivist and soul scholar, driven by a fear of death and a hunger for knowledge. He discovered the Cathedral during an excavation of ancient ruins, and once inside, he never returned.
 >
@@ -81,7 +81,7 @@ Once a mortal archivist, Charon stands bound to the Cathedral of Veil, his soul 
 > "I am not yet lost..."
 > ```
 
-#### ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info-1" id="drops-info-1"></a>
+## ![](https://wiki.drgnshield.com/~gitbook/image?url=https%3A%2F%2F1729500015-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F6yr2oI9PwLQ7DW24nBxU%252Fuploads%252FN8pFAlpFWpes6TF8xlk9%252Fcosmic_ally.png%3Falt%3Dmedia%26token%3Dfddc91d1-a5f4-4b89-aac3-36077137abf4\&width=300\&dpr=4\&quality=100\&sign=b17cfde4\&sv=2) Drops Info <a href="#drops-info-1" id="drops-info-1"></a>
 
 Charon drops the **Obolrod** — a staff forged from forbidden knowledge and cursed soulfire.
 
