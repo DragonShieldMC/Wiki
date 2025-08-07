@@ -94,4 +94,4 @@ The crimson clever is one of a kind weapon, forged from the Crimson rot and a cr
 
 <figure><img src="../../../.gitbook/assets/crismonclever (1).gif" alt="" width="359"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

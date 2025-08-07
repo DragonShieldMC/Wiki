@@ -19,7 +19,7 @@ Once a temple guardian sworn to protect the souls of fallen warriors, **Thanatos
   * **Hand of the Condemned:** A crushing forward slam that sends out shockwaves, capable of staggering and knocking players back. Can break bones and egos alike.
 * **Location:** Top of the **Scorpion Ridges**.
 * **Drops:**
-  * ![](<../../../.gitbook/assets/image (1).png>) **Soul Crescent Shield** _(details below)_
+  * ![](<../../../.gitbook/assets/image (1) (1).png>) **Soul Crescent Shield** _(details below)_
   * **Solaire Chest** – contains a hoard of coins and radiant light
 
 #### 📖 Lore: The Judge

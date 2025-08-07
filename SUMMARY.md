@@ -219,6 +219,7 @@
 * [⚙️ Mechanics](mmorpg/mechanics/README.md)
   * [🦾 Defense System](mmorpg/mechanics/defense-system.md)
   * [Mana System](mmorpg/mechanics/mana-system.md)
+  * [⚔️ Party System](mmorpg/mechanics/party-system.md)
   * [✨ Stats](mmorpg/mechanics/stats.md)
   * [Armory](mmorpg/mechanics/armory.md)
   * [🛠️ Item Repair](mmorpg/mechanics/item-repair.md)
