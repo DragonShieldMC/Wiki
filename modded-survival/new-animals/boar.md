@@ -19,4 +19,4 @@ As most unique creatures in Aten, boars can drop two items that can be useful fo
 
 The second item is the Boar Wool, which can be used to craft a brand new Boar Backpack. This backpack is one row smaller than the buffalo backpack, making it a great choice for new players to get  an improved way to carry their items.
 
-<div><figure><img src="../../.gitbook/assets/Craft.png" alt=""><figcaption><p>Recipe to craft Boar Backpack</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Backpack.png" alt=""><figcaption><p>Quite a fancy backpack, isn't it?</p></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Craft.png" alt=""><figcaption><p>Recipe to craft Boar Backpack</p></figcaption></figure>
