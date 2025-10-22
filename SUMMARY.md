@@ -266,3 +266,7 @@
 * [⛏️ Custom Ores](durel/custom-ores.md)
 * [⚒️ Custom Ore Crafting](durel/custom-ore-crafting.md)
 * [🥇 Custom Ore Armor](durel/custom-ore-armor.md)
+
+***
+
+* [🐲 Our History](our-history.md)
